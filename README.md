@@ -13,25 +13,25 @@ A free-of-charge self hosted Telegram Hackintosh bot
   1. Open a terminal in your PC/Server
   2. Type this command (it's different for every OS):
   
-  **MacOS**: python3 -m pip install python-telegram-bot
-  (if permit errors try:
-  python3 -m pip install --user python-telegram-bot
-  )
-  
-  **Windows**: pip install python-telegram-bot
-  
-  **Linux**:
-  python3 -m pip install --upgrade pip
-  python3 -m pip install python-telegram-bot
-  
-  (_if errors, try_:
-  sudo apt update
-  sudo apt install python3-dev build-essential
-  )
-  
-  (_if still errors try_:
-  python -m pip install --upgrade pip
-  )
+    **MacOS**: python3 -m pip install python-telegram-bot
+    (if permit errors try:
+    python3 -m pip install --user python-telegram-bot
+    )
+    
+    **Windows**: pip install python-telegram-bot
+    
+    **Linux**:
+    python3 -m pip install --upgrade pip
+    python3 -m pip install python-telegram-bot
+    
+    (_if errors, try_:
+    sudo apt update
+    sudo apt install python3-dev build-essential
+    )
+    
+    (_if still errors try_:
+    python -m pip install --upgrade pip
+    )
 
 4. 
 
