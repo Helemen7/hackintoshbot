@@ -1,3 +1,4 @@
 *.log
 hackintoshbot/
-HackintoshBot_*.zip
+*.zip
+.DS_Store
